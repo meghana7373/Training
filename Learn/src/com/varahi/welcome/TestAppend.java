@@ -5,7 +5,7 @@ public class TestAppend {
 	public static void main(String[] args) {
 		
 		StringBuffer sb = new StringBuffer("I am Learning");
-		sb.append(" Git Hub");
+		sb.append(" Git Hub and Graddle");
 		System.out.println(sb);
 
 	}
